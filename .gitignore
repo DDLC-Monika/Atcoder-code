@@ -1,0 +1,9 @@
+.DS_Store
+.vscode-build/
+*.bin
+*.o
+*.out
+*.dSYM/
+__pycache__/
+*.pyc
+*.class

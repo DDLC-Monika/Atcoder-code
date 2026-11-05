@@ -1,0 +1,15 @@
+{
+  "source": "ABC/171/F.cpp",
+  "tests": [
+    {
+      "id": 1792485271364,
+      "input": "5\noof",
+      "output": ""
+    },
+    {
+      "id": 1792485285106,
+      "input": "37564\nwhydidyoudesertme",
+      "output": ""
+    }
+  ]
+}
