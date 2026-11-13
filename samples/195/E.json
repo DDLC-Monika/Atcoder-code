@@ -1,0 +1,25 @@
+{
+  "source": "ABC/195/E.cpp",
+  "tests": [
+    {
+      "id": 1794473517260,
+      "input": "2\n35\nAT",
+      "output": ""
+    },
+    {
+      "id": 1794473557097,
+      "input": "5\n12345\nAAAAT",
+      "output": ""
+    },
+    {
+      "id": 1794473561081,
+      "input": "5\n67890\nTTTTA",
+      "output": ""
+    },
+    {
+      "id": 1794473564898,
+      "input": "5\n12345\nATATA",
+      "output": ""
+    }
+  ]
+}

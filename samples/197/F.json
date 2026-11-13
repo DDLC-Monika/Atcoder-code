@@ -1,0 +1,20 @@
+{
+  "source": "ABC/197/F.cpp",
+  "tests": [
+    {
+      "id": 1794537131653,
+      "input": "8 8\n1 2 a\n2 3 b\n1 3 c\n3 4 b\n4 5 a\n5 6 c\n6 7 b\n7 8 a",
+      "output": ""
+    },
+    {
+      "id": 1794537141819,
+      "input": "4 5\n1 1 a\n1 2 a\n2 3 a\n3 4 b\n4 4 a",
+      "output": ""
+    },
+    {
+      "id": 1794537145877,
+      "input": "3 4\n1 1 a\n1 2 a\n2 3 b\n3 3 b",
+      "output": ""
+    }
+  ]
+}

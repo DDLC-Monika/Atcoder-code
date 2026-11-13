@@ -1,6 +1,6 @@
 # ABC 代码目录
 
-从本地 VS Code 工作目录整理，共 21 份 C++ 源码。按原比赛编号和题号存放，保留原始文件名及不同实现。
+从本地 VS Code 工作目录整理，共 35 份 C++ 源码。按原比赛编号和题号存放，保留原始文件名及不同实现。
 
 | 源码 |
 | --- |
@@ -25,6 +25,20 @@
 | [ABC/182/FF.cpp](ABC/182/FF.cpp) |
 | [ABC/183/F.cpp](ABC/183/F.cpp) |
 | [ABC/184/E.cpp](ABC/184/E.cpp) |
+| [ABC/184/F.cpp](ABC/184/F.cpp) |
+| [ABC/185/E.cpp](ABC/185/E.cpp) |
+| [ABC/188/F.cpp](ABC/188/F.cpp) |
+| [ABC/190/E.cpp](ABC/190/E.cpp) |
+| [ABC/191/D.cpp](ABC/191/D.cpp) |
+| [ABC/192/F.cpp](ABC/192/F.cpp) |
+| [ABC/194/F.cpp](ABC/194/F.cpp) |
+| [ABC/195/E.cpp](ABC/195/E.cpp) |
+| [ABC/197/F.cpp](ABC/197/F.cpp) |
+| [ABC/199/D.cpp](ABC/199/D.cpp) |
+| [ABC/201/E.cpp](ABC/201/E.cpp) |
+| [ABC/203/E.cpp](ABC/203/E.cpp) |
+| [ABC/203/ETLE.cpp](ABC/203/ETLE.cpp) |
+| [ABC/483/E.cpp](ABC/483/E.cpp) |
 
 `samples/` 保存原 CPH 本地样例的输入和预期输出。编译产物及本机路径未包含在上传内容中。
 
