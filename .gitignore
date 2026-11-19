@@ -7,3 +7,8 @@
 __pycache__/
 *.pyc
 *.class
+*.exe
+*.obj
+.venv/
+.cph/
+.cph-ng/
